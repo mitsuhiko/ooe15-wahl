@@ -1,0 +1,1060 @@
+{
+  "timestamp": "2015-09-27T20:28:06.643Z",
+  "main": {
+    "gkz": 40300,
+    "region": {
+      "id": 40300,
+      "name": "Wels",
+      "type": "B"
+    },
+    "metadatas": [
+      {
+        "election": "ltw",
+        "current": {
+          "eligible": 39799,
+          "cast": 30291,
+          "valid": 29496,
+          "invalid": 795,
+          "turnout": 0.7610995251136963
+        },
+        "previous": {
+          "eligible": 40799,
+          "cast": 27977,
+          "valid": 27373,
+          "invalid": 604,
+          "turnout": 0.6857275913625334
+        }
+      },
+      {
+        "election": "grw",
+        "current": {
+          "eligible": 43973,
+          "cast": 31181,
+          "valid": 30470,
+          "invalid": 711,
+          "turnout": 0.7090942169058285
+        },
+        "previous": {
+          "eligible": 42091,
+          "cast": 28256,
+          "valid": 27687,
+          "invalid": 569,
+          "turnout": 0.6713074053835737
+        }
+      },
+      {
+        "election": "bmw",
+        "current": {
+          "eligible": 43973,
+          "cast": 31182,
+          "valid": 30458,
+          "invalid": 724,
+          "turnout": 0.7091169581334
+        },
+        "previous": null
+      }
+    ],
+    "results": [
+      {
+        "election": "ltw",
+        "rows": [
+          {
+            "party": {
+              "id": 1,
+              "listenId": 1,
+              "shortcut": "ÖVP",
+              "name": "Liste Landeshauptmann Dr. Josef Pühringer - ÖVP",
+              "cssClass": "oevp",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 8956,
+            "mandates": 0,
+            "percent": 30.363439110387848,
+            "previousVotes": 9929,
+            "previousMandates": 0,
+            "previousPercent": 36.272969714682354
+          },
+          {
+            "party": {
+              "id": 2,
+              "listenId": 2,
+              "shortcut": "SPÖ",
+              "name": "Sozialdemokratische Partei Österreichs",
+              "cssClass": "spoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 6233,
+            "mandates": 0,
+            "percent": 21.13167887171142,
+            "previousVotes": 7747,
+            "previousMandates": 0,
+            "previousPercent": 28.301611076608335
+          },
+          {
+            "party": {
+              "id": 3,
+              "listenId": 3,
+              "shortcut": "FPÖ",
+              "name": "Freiheitliche Partei Österreichs",
+              "cssClass": "fpoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 10192,
+            "mandates": 0,
+            "percent": 34.553837808516406,
+            "previousVotes": 5748,
+            "previousMandates": 0,
+            "previousPercent": 20.998794432469953
+          },
+          {
+            "party": {
+              "id": 4,
+              "listenId": 4,
+              "shortcut": "GRÜNE",
+              "name": "Die Grünen – Die Grüne Alternative",
+              "cssClass": "gruene",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 2937,
+            "mandates": 0,
+            "percent": 9.957282343368593,
+            "previousVotes": 2839,
+            "previousMandates": 0,
+            "previousPercent": 10.371533993351111
+          },
+          {
+            "party": {
+              "id": 5,
+              "listenId": 5,
+              "shortcut": "NEOS",
+              "name": "NEOS - Das neue Österreich",
+              "cssClass": "neos",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 910,
+            "mandates": 0,
+            "percent": 3.085164090046108,
+            "previousVotes": 0,
+            "previousMandates": 0,
+            "previousPercent": 0
+          },
+          {
+            "party": {
+              "id": 6,
+              "listenId": 6,
+              "shortcut": "CPÖ",
+              "name": "Christliche Partei Österreichs",
+              "cssClass": "cpoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 68,
+            "mandates": 0,
+            "percent": 0.23053973420124763,
+            "previousVotes": 0,
+            "previousMandates": 0,
+            "previousPercent": 0
+          },
+          {
+            "party": {
+              "id": 7,
+              "listenId": 7,
+              "shortcut": "KPÖ",
+              "name": "Kommunistische Partei Österreichs und unabhängige Linke",
+              "cssClass": "kpoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 200,
+            "mandates": 0,
+            "percent": 0.6780580417683754,
+            "previousVotes": 194,
+            "previousMandates": 0,
+            "previousPercent": 0.7087275782705585
+          }
+        ],
+        "previousRows": null,
+        "winner": {
+          "party": {
+            "id": 3,
+            "listenId": 3,
+            "shortcut": "FPÖ",
+            "name": "Freiheitliche Partei Österreichs",
+            "cssClass": "fpoe",
+            "firstname": "",
+            "lastname": "",
+            "title": ""
+          },
+          "votes": 10192,
+          "mandates": 0,
+          "percent": 34.553837808516406,
+          "previousVotes": 5748,
+          "previousMandates": 0,
+          "previousPercent": 20.998794432469953
+        }
+      },
+      {
+        "election": "grw",
+        "rows": [
+          {
+            "party": {
+              "id": 1,
+              "listenId": 1,
+              "shortcut": "ÖVP",
+              "name": "Liste Landeshauptmann Dr. Josef Pühringer - ÖVP",
+              "cssClass": "oevp",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 5182,
+            "mandates": 6,
+            "percent": 17.006892024942566
+          },
+          {
+            "party": {
+              "id": 2,
+              "listenId": 2,
+              "shortcut": "SPÖ",
+              "name": "Sozialdemokratische Partei Österreichs",
+              "cssClass": "spoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 8223,
+            "mandates": 10,
+            "percent": 26.987200525106665
+          },
+          {
+            "party": {
+              "id": 3,
+              "listenId": 3,
+              "shortcut": "FPÖ",
+              "name": "Freiheitliche Partei Österreichs",
+              "cssClass": "fpoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 13127,
+            "mandates": 16,
+            "percent": 43.081719724319
+          },
+          {
+            "party": {
+              "id": 4,
+              "listenId": 4,
+              "shortcut": "GRÜNE",
+              "name": "Die Grünen – Die Grüne Alternative",
+              "cssClass": "gruene",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 2435,
+            "mandates": 3,
+            "percent": 7.991467016737774
+          },
+          {
+            "party": {
+              "id": 5,
+              "listenId": 5,
+              "shortcut": "NEOS",
+              "name": "NEOS - Das neue Österreich",
+              "cssClass": "neos",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 938,
+            "mandates": 1,
+            "percent": 3.078437807679685
+          },
+          {
+            "party": {
+              "id": 7,
+              "listenId": 7,
+              "shortcut": "KPÖ",
+              "name": "Kommunistische Partei Österreichs und unabhängige Linke",
+              "cssClass": "kpoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 252,
+            "mandates": 0,
+            "percent": 0.827042993107975
+          }
+        ],
+        "previousRows": [
+          {
+            "party": {
+              "id": 1,
+              "listenId": 1,
+              "shortcut": "ÖVP",
+              "name": "ÖVP",
+              "cssClass": "oevp",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 5906,
+            "mandates": 8,
+            "percent": 21.331310723444215
+          },
+          {
+            "party": {
+              "id": 2,
+              "listenId": 2,
+              "shortcut": "SPÖ",
+              "name": "SPÖ",
+              "cssClass": "spoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 9884,
+            "mandates": 14,
+            "percent": 35.69906454292629
+          },
+          {
+            "party": {
+              "id": 3,
+              "listenId": 3,
+              "shortcut": "FPÖ",
+              "name": "FPÖ",
+              "cssClass": "fpoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 8096,
+            "mandates": 11,
+            "percent": 29.24116011124354
+          },
+          {
+            "party": {
+              "id": 4,
+              "listenId": 4,
+              "shortcut": "GRÜNE",
+              "name": "GRÜNE",
+              "cssClass": "gruene",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 2722,
+            "mandates": 3,
+            "percent": 9.831328782461082
+          },
+          {
+            "party": {
+              "id": 7,
+              "listenId": 7,
+              "shortcut": "KPÖ",
+              "name": "KPÖ",
+              "cssClass": "kpoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 268,
+            "mandates": 0,
+            "percent": 0.967963304077726
+          },
+          {
+            "party": {
+              "id": 11,
+              "listenId": 11,
+              "shortcut": "BZÖ",
+              "name": "BZÖ",
+              "cssClass": "bzoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 687,
+            "mandates": 0,
+            "percent": 2.481308917542529
+          }
+        ],
+        "winner": {
+          "party": {
+            "id": 3,
+            "listenId": 3,
+            "shortcut": "FPÖ",
+            "name": "Freiheitliche Partei Österreichs",
+            "cssClass": "fpoe",
+            "firstname": "",
+            "lastname": "",
+            "title": ""
+          },
+          "votes": 13127,
+          "mandates": 16,
+          "percent": 43.081719724319
+        }
+      },
+      {
+        "election": "bmw",
+        "rows": [
+          {
+            "party": {
+              "id": 1,
+              "listenId": 1,
+              "shortcut": "ÖVP",
+              "name": "Liste Landeshauptmann Dr. Josef Pühringer - ÖVP",
+              "cssClass": "oevp",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 5228,
+            "mandates": 0,
+            "percent": 17.16462013264167
+          },
+          {
+            "party": {
+              "id": 2,
+              "listenId": 2,
+              "shortcut": "SPÖ",
+              "name": "Sozialdemokratische Partei Österreichs",
+              "cssClass": "spoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 8310,
+            "mandates": 0,
+            "percent": 27.28347232254252
+          },
+          {
+            "party": {
+              "id": 3,
+              "listenId": 3,
+              "shortcut": "FPÖ",
+              "name": "Freiheitliche Partei Österreichs",
+              "cssClass": "fpoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 14496,
+            "mandates": 0,
+            "percent": 47.59340731499114
+          },
+          {
+            "party": {
+              "id": 4,
+              "listenId": 4,
+              "shortcut": "GRÜNE",
+              "name": "Die Grünen – Die Grüne Alternative",
+              "cssClass": "gruene",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 1515,
+            "mandates": 0,
+            "percent": 4.974062643640423
+          },
+          {
+            "party": {
+              "id": 5,
+              "listenId": 5,
+              "shortcut": "NEOS",
+              "name": "NEOS - Das neue Österreich",
+              "cssClass": "neos",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 614,
+            "mandates": 0,
+            "percent": 2.015890734782323
+          }
+        ],
+        "previousRows": null,
+        "winner": {
+          "party": {
+            "id": 3,
+            "listenId": 3,
+            "shortcut": "FPÖ",
+            "name": "Freiheitliche Partei Österreichs",
+            "cssClass": "fpoe",
+            "firstname": "",
+            "lastname": "",
+            "title": ""
+          },
+          "votes": 14496,
+          "mandates": 0,
+          "percent": 47.59340731499114
+        }
+      }
+    ]
+  },
+  "subs": [
+    {
+      "gkz": 40301,
+      "region": {
+        "id": 40301,
+        "name": "Wels",
+        "type": "G"
+      },
+      "metadatas": [
+        {
+          "election": "ltw",
+          "current": {
+            "eligible": 39799,
+            "cast": 30291,
+            "valid": 29496,
+            "invalid": 795,
+            "turnout": 0.7610995251136963
+          },
+          "previous": {
+            "eligible": 40799,
+            "cast": 27977,
+            "valid": 27373,
+            "invalid": 604,
+            "turnout": 0.6857275913625334
+          }
+        },
+        {
+          "election": "grw",
+          "current": {
+            "eligible": 43973,
+            "cast": 31181,
+            "valid": 30470,
+            "invalid": 711,
+            "turnout": 0.7090942169058285
+          },
+          "previous": {
+            "eligible": 42091,
+            "cast": 28256,
+            "valid": 27687,
+            "invalid": 569,
+            "turnout": 0.6713074053835737
+          }
+        },
+        {
+          "election": "bmw",
+          "current": {
+            "eligible": 43973,
+            "cast": 31182,
+            "valid": 30458,
+            "invalid": 724,
+            "turnout": 0.7091169581334
+          },
+          "previous": null
+        }
+      ],
+      "results": [
+        {
+          "election": "ltw",
+          "rows": [
+            {
+              "party": {
+                "id": 1,
+                "listenId": 1,
+                "shortcut": "ÖVP",
+                "name": "Liste Landeshauptmann Dr. Josef Pühringer - ÖVP",
+                "cssClass": "oevp",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 8956,
+              "mandates": 0,
+              "percent": 30.363439110387848,
+              "previousVotes": 9929,
+              "previousMandates": 0,
+              "previousPercent": 36.272969714682354
+            },
+            {
+              "party": {
+                "id": 2,
+                "listenId": 2,
+                "shortcut": "SPÖ",
+                "name": "Sozialdemokratische Partei Österreichs",
+                "cssClass": "spoe",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 6233,
+              "mandates": 0,
+              "percent": 21.13167887171142,
+              "previousVotes": 7747,
+              "previousMandates": 0,
+              "previousPercent": 28.301611076608335
+            },
+            {
+              "party": {
+                "id": 3,
+                "listenId": 3,
+                "shortcut": "FPÖ",
+                "name": "Freiheitliche Partei Österreichs",
+                "cssClass": "fpoe",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 10192,
+              "mandates": 0,
+              "percent": 34.553837808516406,
+              "previousVotes": 5748,
+              "previousMandates": 0,
+              "previousPercent": 20.998794432469953
+            },
+            {
+              "party": {
+                "id": 4,
+                "listenId": 4,
+                "shortcut": "GRÜNE",
+                "name": "Die Grünen – Die Grüne Alternative",
+                "cssClass": "gruene",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 2937,
+              "mandates": 0,
+              "percent": 9.957282343368593,
+              "previousVotes": 2839,
+              "previousMandates": 0,
+              "previousPercent": 10.371533993351111
+            },
+            {
+              "party": {
+                "id": 5,
+                "listenId": 5,
+                "shortcut": "NEOS",
+                "name": "NEOS - Das neue Österreich",
+                "cssClass": "neos",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 910,
+              "mandates": 0,
+              "percent": 3.085164090046108,
+              "previousVotes": 0,
+              "previousMandates": 0,
+              "previousPercent": 0
+            },
+            {
+              "party": {
+                "id": 6,
+                "listenId": 6,
+                "shortcut": "CPÖ",
+                "name": "Christliche Partei Österreichs",
+                "cssClass": "cpoe",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 68,
+              "mandates": 0,
+              "percent": 0.23053973420124763,
+              "previousVotes": 0,
+              "previousMandates": 0,
+              "previousPercent": 0
+            },
+            {
+              "party": {
+                "id": 7,
+                "listenId": 7,
+                "shortcut": "KPÖ",
+                "name": "Kommunistische Partei Österreichs und unabhängige Linke",
+                "cssClass": "kpoe",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 200,
+              "mandates": 0,
+              "percent": 0.6780580417683754,
+              "previousVotes": 194,
+              "previousMandates": 0,
+              "previousPercent": 0.7087275782705585
+            }
+          ],
+          "previousRows": null,
+          "winner": {
+            "party": {
+              "id": 3,
+              "listenId": 3,
+              "shortcut": "FPÖ",
+              "name": "Freiheitliche Partei Österreichs",
+              "cssClass": "fpoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 10192,
+            "mandates": 0,
+            "percent": 34.553837808516406,
+            "previousVotes": 5748,
+            "previousMandates": 0,
+            "previousPercent": 20.998794432469953
+          }
+        },
+        {
+          "election": "grw",
+          "rows": [
+            {
+              "party": {
+                "id": 10021,
+                "listenId": 1,
+                "shortcut": "ÖVP",
+                "name": "ÖVP - Liste Peter Lehner",
+                "cssClass": "oevp",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 5182,
+              "mandates": 6,
+              "percent": 17.006892024942566
+            },
+            {
+              "party": {
+                "id": 5027,
+                "listenId": 2,
+                "shortcut": "SPÖ",
+                "name": "Sozialdemokratische Partei Österreichs",
+                "cssClass": "spoe",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 8223,
+              "mandates": 10,
+              "percent": 26.987200525106665
+            },
+            {
+              "party": {
+                "id": 5029,
+                "listenId": 3,
+                "shortcut": "FPÖ",
+                "name": "Freiheitliche Partei Österreichs",
+                "cssClass": "fpoe",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 13127,
+              "mandates": 16,
+              "percent": 43.081719724319
+            },
+            {
+              "party": {
+                "id": 5028,
+                "listenId": 4,
+                "shortcut": "GRÜNE",
+                "name": "Die Grünen - Die Grüne Alternative",
+                "cssClass": "gruene",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 2435,
+              "mandates": 3,
+              "percent": 7.991467016737774
+            },
+            {
+              "party": {
+                "id": 10022,
+                "listenId": 5,
+                "shortcut": "NEOS",
+                "name": "NEOS - Das Neue Österreich",
+                "cssClass": "neos",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 938,
+              "mandates": 1,
+              "percent": 3.078437807679685
+            },
+            {
+              "party": {
+                "id": 10023,
+                "listenId": 7,
+                "shortcut": "KPÖ",
+                "name": "Kommunistische Partei Österreichs und unabhängige Linke",
+                "cssClass": "kpoe",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 252,
+              "mandates": 0,
+              "percent": 0.827042993107975
+            },
+            {
+              "party": {
+                "id": 10024,
+                "listenId": 8,
+                "shortcut": "WELS",
+                "name": "Wels soll die schönste Stadt Österreichs werden",
+                "cssClass": "sonst1",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 313,
+              "mandates": 0,
+              "percent": 1.0272399081063341
+            }
+          ],
+          "previousRows": [
+            {
+              "party": {
+                "id": 5026,
+                "listenId": 1,
+                "shortcut": "ÖVP",
+                "name": "ÖVP - Liste Anna Eisenrauch",
+                "cssClass": "oevp",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 5906,
+              "mandates": 8,
+              "percent": 21.331310723444215
+            },
+            {
+              "party": {
+                "id": 5027,
+                "listenId": 2,
+                "shortcut": "SPÖ",
+                "name": "Sozialdemokratische Partei Österreichs",
+                "cssClass": "spoe",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 9884,
+              "mandates": 14,
+              "percent": 35.69906454292629
+            },
+            {
+              "party": {
+                "id": 5029,
+                "listenId": 3,
+                "shortcut": "FPÖ",
+                "name": "Freiheitliche Partei Österreichs",
+                "cssClass": "fpoe",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 8096,
+              "mandates": 11,
+              "percent": 29.24116011124354
+            },
+            {
+              "party": {
+                "id": 5028,
+                "listenId": 4,
+                "shortcut": "GRÜNE",
+                "name": "Die Grünen - Die Grüne Alternative",
+                "cssClass": "gruene",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 2722,
+              "mandates": 3,
+              "percent": 9.831328782461082
+            },
+            {
+              "party": {
+                "id": 5031,
+                "listenId": 7,
+                "shortcut": "KPÖ",
+                "name": "Kommunistische Partei Österreichs",
+                "cssClass": "kpoe",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 268,
+              "mandates": 0,
+              "percent": 0.967963304077726
+            },
+            {
+              "party": {
+                "id": 5032,
+                "listenId": 8,
+                "shortcut": "LIF",
+                "name": "Liberales Forum",
+                "cssClass": "sonst1",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 124,
+              "mandates": 0,
+              "percent": 0.44786361830461946
+            },
+            {
+              "party": {
+                "id": 5030,
+                "listenId": 11,
+                "shortcut": "BZÖ",
+                "name": "BZÖ-Wels",
+                "cssClass": "bzoe",
+                "firstname": "",
+                "lastname": "",
+                "title": ""
+              },
+              "votes": 687,
+              "mandates": 0,
+              "percent": 2.481308917542529
+            }
+          ],
+          "winner": {
+            "party": {
+              "id": 5029,
+              "listenId": 3,
+              "shortcut": "FPÖ",
+              "name": "Freiheitliche Partei Österreichs",
+              "cssClass": "fpoe",
+              "firstname": "",
+              "lastname": "",
+              "title": ""
+            },
+            "votes": 13127,
+            "mandates": 16,
+            "percent": 43.081719724319
+          }
+        },
+        {
+          "election": "bmw",
+          "rows": [
+            {
+              "party": {
+                "id": 4919,
+                "listenId": 1,
+                "shortcut": "ÖVP",
+                "name": "",
+                "cssClass": "oevp",
+                "firstname": "Peter",
+                "lastname": "Lehner",
+                "title": ""
+              },
+              "votes": 5228,
+              "mandates": 0,
+              "percent": 17.16462013264167
+            },
+            {
+              "party": {
+                "id": 4920,
+                "listenId": 2,
+                "shortcut": "SPÖ",
+                "name": "",
+                "cssClass": "spoe",
+                "firstname": "Hermann",
+                "lastname": "Wimmer",
+                "title": ""
+              },
+              "votes": 8310,
+              "mandates": 0,
+              "percent": 27.28347232254252
+            },
+            {
+              "party": {
+                "id": 4921,
+                "listenId": 3,
+                "shortcut": "FPÖ",
+                "name": "",
+                "cssClass": "fpoe",
+                "firstname": "Andreas",
+                "lastname": "Rabl",
+                "title": "Mag. Dr."
+              },
+              "votes": 14496,
+              "mandates": 0,
+              "percent": 47.59340731499114
+            },
+            {
+              "party": {
+                "id": 4922,
+                "listenId": 4,
+                "shortcut": "GRÜNE",
+                "name": "",
+                "cssClass": "gruene",
+                "firstname": "Elke",
+                "lastname": "Mayerhofer",
+                "title": "Mag."
+              },
+              "votes": 1515,
+              "mandates": 0,
+              "percent": 4.974062643640423
+            },
+            {
+              "party": {
+                "id": 4923,
+                "listenId": 5,
+                "shortcut": "NEOS",
+                "name": "",
+                "cssClass": "neos",
+                "firstname": "Markus",
+                "lastname": "Hufnagl",
+                "title": ""
+              },
+              "votes": 614,
+              "mandates": 0,
+              "percent": 2.015890734782323
+            },
+            {
+              "party": {
+                "id": 4924,
+                "listenId": 8,
+                "shortcut": "WELS",
+                "name": "",
+                "cssClass": "sonstige",
+                "firstname": "Günther",
+                "lastname": "Ecker",
+                "title": "Ing."
+              },
+              "votes": 295,
+              "mandates": 0,
+              "percent": 0.9685468514019305
+            }
+          ],
+          "previousRows": null,
+          "winner": {
+            "party": {
+              "id": 4921,
+              "listenId": 3,
+              "shortcut": "FPÖ",
+              "name": "",
+              "cssClass": "fpoe",
+              "firstname": "Andreas",
+              "lastname": "Rabl",
+              "title": "Mag. Dr."
+            },
+            "votes": 14496,
+            "mandates": 0,
+            "percent": 47.59340731499114
+          }
+        }
+      ]
+    }
+  ]
+}
